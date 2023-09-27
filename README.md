@@ -2,7 +2,7 @@
 
 This is a simple collapsible side navigation menu built with React.js, Vite, and Tailwind CSS. It allows users to easily navigate through different sections of your application while conserving screen space by collapsing and expanding the menu.
 
-<img src=""/>
+<img src="https://github.com/Signor1/Dynamic-CollapseableSideNav/blob/d3e3cfe15d1f55c9965621ed52e9d2b8d3fabcdc/sideNav.png"/>
 
 ## Features
 
